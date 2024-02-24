@@ -1,6 +1,6 @@
 export const questions = [
   {
-    question: 'What is the purpose of this file?',
+    Question: 'What is the purpose of this file?',
     answer: 'This file is used to create the index.html file',
   },
   {
