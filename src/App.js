@@ -1,6 +1,6 @@
-import react from 'react'
+import { FAQ } from './component/FAQ.jsx'
 function App() {
-  return <h1>Hello World</h1>
+  return <FAQ />
 }
 
 export default App
